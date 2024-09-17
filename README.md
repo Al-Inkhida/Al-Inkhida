@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ... the project which enhances my skills
 - 📫 How to reach me ...emails
 - 😄 Pronouns: ... natts
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+
+- I can use C#, python, java, julia and a little C and ruby
+- Familiar with basic information and Computer Science technology
+- I have "Fundamental Information Technology Engineer Examination (FE)" in Japan
 
 <!---
 Al-Inkhida/Al-Inkhida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
